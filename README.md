@@ -1,1 +1,1 @@
-https://github.com/ZlataT/posmotri_v_okno.git
+https://zlatat.github.io/posmotri_v_okno/
